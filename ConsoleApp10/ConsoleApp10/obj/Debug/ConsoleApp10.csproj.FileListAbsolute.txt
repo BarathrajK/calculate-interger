@@ -1,0 +1,8 @@
+E:\C#-Practice\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.exe.config
+E:\C#-Practice\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.exe
+E:\C#-Practice\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.pdb
+E:\C#-Practice\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.AssemblyReference.cache
+E:\C#-Practice\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.SuggestedBindingRedirects.cache
+E:\C#-Practice\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.CoreCompileInputs.cache
+E:\C#-Practice\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.exe
+E:\C#-Practice\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.pdb
